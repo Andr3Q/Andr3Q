@@ -42,7 +42,6 @@ Analista de Sustentação focado em automação, estabilidade de sistemas e moni
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peereiraandre/)
 
 
-
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
