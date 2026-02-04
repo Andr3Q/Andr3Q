@@ -40,3 +40,12 @@ Analista de Sustentação focado em automação, estabilidade de sistemas e moni
 
 ## 📫 Contato:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peereiraandre/)
+
+
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andr3Q&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andr3Q&layout=compact&langs_count=7&theme=dark"/>
+</p>
